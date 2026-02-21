@@ -22,7 +22,7 @@
 // These calls return err == nil to indicate success; otherwise
 // err represents an operating system error describing the failure and
 // holds a value of type syscall.Errno.
-package windows // import "github.com/kbinani/screenshot/internal/sys/windows"
+package windows // import "github.com/tinywasm/screenshot/internal/sys/windows"
 
 import (
 	"bytes"

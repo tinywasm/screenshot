@@ -23,8 +23,8 @@ accompanying documentation can be found in examples/create-window.
 
 	import (
 		"fmt"
-		"github.com/kbinani/screenshot/internal/xgb"
-		"github.com/kbinani/screenshot/internal/xgb/xproto"
+		"github.com/tinywasm/screenshot/internal/xgb"
+		"github.com/tinywasm/screenshot/internal/xgb/xproto"
 	)
 
 	func main() {
@@ -74,8 +74,8 @@ can be found in examples/xinerama.
 	import (
 		"fmt"
 		"log"
-		"github.com/kbinani/screenshot/internal/xgb"
-		"github.com/kbinani/screenshot/internal/xgb/xinerama"
+		"github.com/tinywasm/screenshot/internal/xgb"
+		"github.com/tinywasm/screenshot/internal/xgb/xinerama"
 	)
 
 	func main() {

@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/kbinani/screenshot/internal/sys/windows"
+	"github.com/tinywasm/screenshot/internal/sys/windows"
 )
 
 // GetDeviceCaps index constants

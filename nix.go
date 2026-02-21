@@ -3,8 +3,8 @@
 package screenshot
 
 import (
-	"github.com/kbinani/screenshot/internal/xgb"
-	"github.com/kbinani/screenshot/internal/xgb/xinerama"
+	"github.com/tinywasm/screenshot/internal/xgb"
+	"github.com/tinywasm/screenshot/internal/xgb/xinerama"
 	"image"
 )
 

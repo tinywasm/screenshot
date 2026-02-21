@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/kbinani/screenshot/internal/win"
+	"github.com/tinywasm/screenshot/internal/win"
 )
 
 func NumActiveDisplays() int {

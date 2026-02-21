@@ -8,7 +8,7 @@ package win
 
 import (
 	"fmt"
-	"github.com/kbinani/screenshot/internal/sys/windows"
+	"github.com/tinywasm/screenshot/internal/sys/windows"
 	"syscall"
 	"unsafe"
 )

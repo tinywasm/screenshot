@@ -1,3 +1,3 @@
-module github.com/kbinani/screenshot
+module github.com/tinywasm/screenshot
 
 go 1.21

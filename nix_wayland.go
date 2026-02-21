@@ -4,7 +4,7 @@ package screenshot
 
 import (
 	"fmt"
-	"github.com/kbinani/screenshot/internal/dbus"
+	"github.com/tinywasm/screenshot/internal/dbus"
 	"image"
 	"image/draw"
 	"image/png"

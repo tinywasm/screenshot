@@ -4,11 +4,11 @@ package screenshot
 
 import (
 	"fmt"
-	"github.com/kbinani/screenshot/internal/shm"
-	"github.com/kbinani/screenshot/internal/xgb"
-	mshm "github.com/kbinani/screenshot/internal/xgb/shm"
-	"github.com/kbinani/screenshot/internal/xgb/xinerama"
-	"github.com/kbinani/screenshot/internal/xgb/xproto"
+	"github.com/tinywasm/screenshot/internal/shm"
+	"github.com/tinywasm/screenshot/internal/xgb"
+	mshm "github.com/tinywasm/screenshot/internal/xgb/shm"
+	"github.com/tinywasm/screenshot/internal/xgb/xinerama"
+	"github.com/tinywasm/screenshot/internal/xgb/xproto"
 	"image"
 	"image/color"
 )

@@ -7,7 +7,7 @@
 package win
 
 import (
-	"github.com/kbinani/screenshot/internal/sys/windows"
+	"github.com/tinywasm/screenshot/internal/sys/windows"
 	"syscall"
 	"unsafe"
 )
