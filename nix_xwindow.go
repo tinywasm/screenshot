@@ -4,11 +4,11 @@ package screenshot
 
 import (
 	"fmt"
-	"github.com/gen2brain/shm"
-	"github.com/jezek/xgb"
-	mshm "github.com/jezek/xgb/shm"
-	"github.com/jezek/xgb/xinerama"
-	"github.com/jezek/xgb/xproto"
+	"github.com/kbinani/screenshot/internal/shm"
+	"github.com/kbinani/screenshot/internal/xgb"
+	mshm "github.com/kbinani/screenshot/internal/xgb/shm"
+	"github.com/kbinani/screenshot/internal/xgb/xinerama"
+	"github.com/kbinani/screenshot/internal/xgb/xproto"
 	"image"
 	"image/color"
 )

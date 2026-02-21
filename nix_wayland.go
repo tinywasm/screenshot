@@ -4,7 +4,7 @@ package screenshot
 
 import (
 	"fmt"
-	"github.com/godbus/dbus/v5"
+	"github.com/kbinani/screenshot/internal/dbus"
 	"image"
 	"image/draw"
 	"image/png"
