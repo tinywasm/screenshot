@@ -4,7 +4,7 @@ package screenshot
 
 import (
 	"errors"
-	"github.com/lxn/win"
+	"github.com/kbinani/screenshot/internal/win"
 	"image"
 	"syscall"
 	"unsafe"
